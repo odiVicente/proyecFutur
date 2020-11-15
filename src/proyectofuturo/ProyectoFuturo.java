@@ -16,6 +16,7 @@ public class ProyectoFuturo {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        //Vicente Antón Serrano
         System.out.println("Estudiante "+ args[0]+" : ");
         String a="6";
         String b="28";
